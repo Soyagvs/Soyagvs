@@ -1,71 +1,34 @@
-<div align="center">
-<h1 align="center">Hello, I'm <a >Agustin Martinez</a> 👋</h1>
-</div>
-<img src="https://i.imgur.com/DZseQ6P.jpg">
+<h1>Hello! I'm Agustin Martinez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
+<h2>Full Stack Developer 💻</h2>
 
+### About Me
+My name is Agustin Martinez, I am 25 years old and I dedicate myself to creating web pages using Stack MERN, PERN and other technologies depending on the design.
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+### Technologies
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCSS)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  <br/>
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+  ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=PHP)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
 
-<div>
-  <h3>-⭐ Github Star ⭐</h3> 
-  <h3>-💻 Software developer</h3>
-  <h3>-🥷 Cybersecurity study</h3>
-  <h3>-🌱 I’m interested in Develop on different platforms and languages.</h3>
-  <h3>-📩 agustinmartinezyt@gmail.com</h3>
-  <h3>-👤 IG:@soyagvs</h3>
-</div>
-<br>
-<br><br>
+### Contact Me
+<a href="https://www.youtube.com/channel/UCvTwSRoM5VXq-MHzR2km-0g"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Agustin%20Martinez-red?style=flat-square&logo=youtube"></a>
+<a href="https://www.tiktok.com/@soyagvs"><img alt="Tiktok" src="https://img.shields.io/badge/Soyagvs-violet?style=flat-square&logo=tiktok"></a>  
+<a href="agustinmartinezyt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-agustinmartinezyt@gmail.com-orange?style=flat-square&logo=gmail"></a>  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Soyagvs&show_icons=true)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soyagvs&label=Profile%20views&color=0e75b6&style=flat" alt="Soyagvs" /> </p>
 
-<p align="center">
-
-- **Skills**:
-    
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-<br>   
-    
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
-<br>
-
-- **Softwares and Tools**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
-<br>
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-</p>
