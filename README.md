@@ -22,6 +22,7 @@ My name is Agustin Martinez, I am 25 years old and I dedicate myself to creating
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
   ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=PHP)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+  ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
 
 ### Contact Me
 <a href="https://www.youtube.com/channel/UCvTwSRoM5VXq-MHzR2km-0g"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Agustin%20Martinez-red?style=flat-square&logo=youtube"></a>
