@@ -2,7 +2,7 @@
 <h2>Full Stack Developer 💻</h2>
 
 ### About Me
-My name is Agustin Martinez, I am 25 years old and I dedicate myself to creating web pages using Stack MERN, PERN and other technologies depending on the design.
+My name is Agustin Martinez, I am 26 years old and I dedicate myself to creating web pages using Stack MERN, PERN and other technologies depending on the design.
 
 ### Technologies
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -23,6 +23,7 @@ My name is Agustin Martinez, I am 25 years old and I dedicate myself to creating
   ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=PHP)
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
   ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
+  ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=NextJs)
 
 ### Contact Me
 <a href="https://www.youtube.com/channel/UCvTwSRoM5VXq-MHzR2km-0g"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Agustin%20Martinez-red?style=flat-square&logo=youtube"></a>
