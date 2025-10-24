@@ -1,36 +1,83 @@
-<h1>Hello! I'm Agustin Martinez <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Full Stack Developer 💻</h2>
+<div align="center">
 
-### About Me
-My name is Agustin Martinez, I am 26 years old and I dedicate myself to creating web pages using Stack MERN, PERN and other technologies depending on the design.
+# 👋 Hi, I'm Agustin Martinez
 
-### Technologies
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=TailwindCSS)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-  <br/>
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-  ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=PHP)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
-  ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=Astro)
-  ![NextJs](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=NextJs)
+### Full Stack Developer 🚀
 
-### Contact Me
-<a href="https://www.youtube.com/channel/UCvTwSRoM5VXq-MHzR2km-0g"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Agustin%20Martinez-red?style=flat-square&logo=youtube"></a>
-<a href="https://www.tiktok.com/@soyagvs"><img alt="Tiktok" src="https://img.shields.io/badge/Soyagvs-violet?style=flat-square&logo=tiktok"></a>  
-<a href="agustinmartinezyt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-agustinmartinezyt@gmail.com-orange?style=flat-square&logo=gmail"></a>  
+[![Profile Views](https://komarev.com/ghpvc/?username=Soyagvs&color=blueviolet&style=for-the-badge)](https://github.com/Soyagvs)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvTwSRoM5VXq-MHzR2km-0g)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@soyagvs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinmartinezyt@gmail.com)
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Soyagvs&show_icons=true)
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soyagvs&label=Profile%20views&color=0e75b6&style=flat" alt="Soyagvs" /> </p>
+## 💫 About Me
 
+```typescript
+const agustin = {
+    age: 26,
+    role: "Full Stack Developer",
+    location: "Argentina 🇦🇷",
+    stacks: ["MERN", "PERN"],
+    currentFocus: "Building scalable web applications",
+    passions: ["Clean Code", "Modern Design", "Problem Solving"]
+};
+```
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soyagvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soyagvs&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Soyagvs&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🎯 Currently Working On
+
+- 🔭 Building modern web applications
+- 🌱 Learning new technologies and best practices
+- 👯 Open to collaborate on interesting projects
+- 💬 Ask me about React, Node.js, or Full Stack Development
+
+---
+
+<div align="center">
+
+### 💼 Let's Connect and Build Something Amazing Together!
+
+**⭐ From [Soyagvs](https://github.com/Soyagvs)**
+
+</div>
