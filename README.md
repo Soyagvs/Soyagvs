@@ -5,6 +5,7 @@
 ### Full Stack Developer 🚀
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Soyagvs&color=blueviolet&style=for-the-badge)](https://github.com/Soyagvs)
+[![Instagram](https://img.shields.io/badge/Instagram-FF8000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soyagvs)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvTwSRoM5VXq-MHzR2km-0g)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@soyagvs)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustinmartinezyt@gmail.com)
