@@ -16,7 +16,7 @@
 
 ```typescript
 const agustin = {
-    age: 26,
+    age: 27,
     role: "Full Stack Developer",
     location: "Argentina 🇦🇷",
     stacks: ["MERN", "PERN"],
