@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:312e81&text=Agustín%20Martínez&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:312e81&text=Agustin%20Martinez&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
 
 <p>
   <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0f172a?style=for-the-badge"/>
