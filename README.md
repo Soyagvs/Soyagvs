@@ -1,170 +1,111 @@
+
 <div align="center">
 
-   <img
- src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,100:7c3aed&text=Agustin%20Martinez&fontSize=42&fontColor
- =ffffff&fontAlignY=40&desc=Creator%20of%20Shelly%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:4c1d95,100:8b5cf6&text=Agustin%20Martinez&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Open%20Source%20Creator&descAlignY=59&descSize=17&animation=fadeIn"/>
 
-   <p>
-     <img src="https://img.shields.io/badge/Creator%20of-Shelly-7c3aed?style=for-the-badge"/>
-     <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-0f172a?style=for-the-badge"/>
-     <img src="https://img.shields.io/badge/Based%20in-Argentina-312e81?style=for-the-badge"/>
-   </p>
+<br/>
 
-   <p>
-     <a href="mailto:agustinmartinezyt@gmail.com"><img
- src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-     <a href="https://github.com/Soyagvs"><img
- src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-     <a href="https://www.instagram.com/soyagvs"><img
- src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-     <a href="https://www.tiktok.com/@soyagvs"><img
- src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
-   </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+tools+for+developers;Creator+of+Shelly;Exploring+Rust+%26+programming+languages;Open+Source+Enthusiast" alt="Typing animation"/>
+</a>
 
-   </div>
+<br/><br/>
 
-   <br/>
+<a href="https://github.com/Soyagvs">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/soyagvs">
+  <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:agustinmartinezyt@gmail.com">
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-   ## 👋 Sobre mí
+</div>
 
-   Soy **Agustin Martinez**, Full Stack Developer de Argentina y creador de **Shelly**, un lenguaje de scripting diseñado para escribir
- automatizaciones claras, modernas y fáciles de mantener.
+<br/>
 
-   Trabajo principalmente con **React, Next.js, TypeScript, Node.js, Laravel, PHP y PostgreSQL**, construyendo aplicaciones web
- escalables, mantenibles y enfocadas en la experiencia del usuario final y del desarrollador.
+## 👋 About Me
 
-   Mi foco actual está en crear herramientas que mejoren la forma en que otros desarrolladores trabajan. Con **Shelly**, busco que
- escribir scripts no se sienta como pelearse con Bash, sino como construir automatizaciones legibles, seguras y agradables de usar.
+I'm **Agustin Martinez**, a software developer from Argentina 🇦🇷
 
-   - 🧪 Creador de **Shelly**, un lenguaje de scripting para automatización legible
-   - 🔭 Actualmente trabajando en **aplicaciones enterprise con Next.js**
-   - 🌱 Profundizando en **arquitecturas frontend escalables**, tooling y developer experience
-   - ⚡ Explorando **aplicaciones en tiempo real** y herramientas para desarrolladores
-   - 🎯 Foco constante en **mantenibilidad, performance y claridad**
-   - 💬 Preguntame sobre React, Next.js, TypeScript, Laravel, arquitectura o Shelly
+I enjoy building applications, exploring programming languages, and creating tools that improve the developer experience.
 
-   <br/>
+- 🐦‍⬛ Creator of **Shelly**, a modern scripting language built with Rust
+- 💻 Working with **React, Next.js, TypeScript, and Node.js**
+- 🦀 Exploring **Rust, language design, and developer tooling**
+- 🛠️ Passionate about **open source, Linux, and terminal-based workflows**
 
-   ## 🚀 Proyecto principal
+<br/>
 
-   ### Shelly
+## 🐦‍⬛ Featured Project — Shelly
 
-   **Shelly** es un lenguaje de scripting creado para escribir automatizaciones claras, legibles y fáciles de mantener.
+<div align="center">
 
-   Nació con una idea simple:
+### Shelly
 
-   > escribir scripts no debería sentirse como pelearse con Bash.
+**A modern scripting language built with Rust.**
 
-   Shelly incluye:
+Simple scripting. Powerful automation. Beyond Bash.
 
-   - sintaxis simple y explícita
-   - variables, constantes, listas y diccionarios
-   - funciones con `fn`
-   - `case`, `if`, `for`, `while`, `repeat`
-   - manejo de errores con `try` / `catch`
-   - comandos de archivos
-   - JSON helpers
-   - argumentos de script
-   - captura de `stdout`, `stderr` y exit code
-   - instaladores para Linux/macOS/Windows
-   - extensión para VS Code
+<a href="https://github.com/Soyagvs/shelly">
+  <img src="https://img.shields.io/badge/Explore_Shelly-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-   ```shelly
-   arg 1 -> $name
+<br/><br/>
 
-   $user = {
-       name: $name
-       role: "developer"
-   }
+<img src="https://img.shields.io/badge/Built_with-Rust-CE422B?style=flat-square&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/Extension-.shelly-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Scripting_%26_Automation-A78BFA?style=flat-square"/>
 
-   case $user.role
-       when "developer"
-           shellout "Welcome $user.name"
-       else
-           shellout "Unknown role"
-   end
- ```
+</div>
 
- <p>
-   <a href="https://github.com/Soyagvs/shelly">
-     <img src="https://img.shields.io/badge/View%20Shelly-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-   </a>
- </p>
+<br/>
 
- <br/>
+## ⚡ Tech Stack
 
- 🛠️ Tech Stack
+<div align="center">
 
- <div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,rust,go,php,react,nextjs,nodejs,laravel,postgres,docker,linux,git,neovim&perline=7"/>
 
- Frontend
+</div>
 
- <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
- <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge"/>
+<br/>
 
- Backend
+## 📊 GitHub Statistics
 
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
- <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
- <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<div align="center">
 
- Bases de datos
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Soyagvs&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&include_all_commits=true"/>
 
- <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Soyagvs&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8"/>
 
- Herramientas
+<br/>
 
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
- <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
- <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://streak-stats.demolab.com?user=Soyagvs&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
- </div>
+</div>
 
- <br/>
+<br/>
 
- 📌 Otros proyectos
+## 📈 Contribution Activity
 
- ### Gestam App
+<div align="center">
 
- Plataforma de gestión empresarial construida con Next.js, TypeScript y PostgreSQL.
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Soyagvs&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9&hide_border=true&custom_title=Contribution%20Activity"/>
 
- - 🏢 Arquitectura multi-tenant
- - ⚡ Actualizaciones en tiempo real
- - 🔐 Permisos basados en roles
- - 📋 Flujos de auditoría
- - 📅 Sistema de scheduling
+</div>
 
- <br/>
+<br/>
 
- 📊 GitHub Stats
+<div align="center">
 
- <div align="center">
- <img height="165"
- src="https://github-stats-extended.vercel.app/api?username=Soyagvs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/
- >
- <img height="165"
- src="https://github-stats-extended.vercel.app/api/top-langs/?username=Soyagvs&layout=compact&theme=tokyonight&hide_border=true"/>
- </div>
+<img src="https://komarev.com/ghpvc/?username=Soyagvs&label=Profile%20Views&color=7c3aed&style=flat-square"/>
 
- <div align="center">
- <img src="https://streak-stats.demolab.com/?user=Soyagvs&theme=tokyonight&hide_border=true"/>
- </div>
+<br/><br/>
 
- <br/>
+*Building software, exploring ideas, and creating tools for developers.*
 
- <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:8b5cf6,100:0f172a"/>
 
- "Building clean software, better tools, and Shelly."
-
- <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7c3aed,100:0f172a&section=footer"/>
-
- </div>
+</div>
