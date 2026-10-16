@@ -7,7 +7,7 @@
 
 # Agustin Martinez
 
-**Creator of Shelly — A modern scripting language built with Rust.**
+**Creator of Shelly 🐦‍⬛ — A modern scripting language built with Rust.**
 
 Shelly is an open-source scripting language focused on simplicity, readability, and modern automation.
 
