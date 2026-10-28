@@ -20,3 +20,4 @@ Shelly is an open-source scripting language focused on simplicity, readability, 
 I'm the creator and maintainer of **Shelly** and its developer ecosystem, including the language interpreter, language server, and editor integrations.
 
 Building a modern alternative to traditional shell scripting, with a focus on developer experience and long-term language development.
+
